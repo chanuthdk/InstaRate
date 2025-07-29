@@ -1,0 +1,2 @@
+# InstaRate
+ Forex currency converter
